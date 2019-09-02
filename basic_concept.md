@@ -1,0 +1,1 @@
+- why-log-returns https://quantivity.wordpress.com/2011/02/21/why-log-returns/
